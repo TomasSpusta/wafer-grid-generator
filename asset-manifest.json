@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/wafer-grid-generator/static/css/main.e6c13ad2.css",
-    "main.js": "/wafer-grid-generator/static/js/main.64699824.js",
+    "main.js": "/wafer-grid-generator/static/js/main.c1e60247.js",
     "static/js/453.491c32db.chunk.js": "/wafer-grid-generator/static/js/453.491c32db.chunk.js",
     "index.html": "/wafer-grid-generator/index.html",
     "main.e6c13ad2.css.map": "/wafer-grid-generator/static/css/main.e6c13ad2.css.map",
-    "main.64699824.js.map": "/wafer-grid-generator/static/js/main.64699824.js.map",
+    "main.c1e60247.js.map": "/wafer-grid-generator/static/js/main.c1e60247.js.map",
     "453.491c32db.chunk.js.map": "/wafer-grid-generator/static/js/453.491c32db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.64699824.js"
+    "static/js/main.c1e60247.js"
   ]
 }
