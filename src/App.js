@@ -14,7 +14,7 @@ function App() {
       const py = await window.loadPyodide({
         indexURL: "./pyodide/"
       });
-      const generatorPy = await (await fetch("/generator.py")).text();
+      const generatorPy = await (await fetch("./generator.py")).text();
       await py.runPythonAsync(generatorPy);
       setPyodide(py);
     }
