@@ -12,7 +12,7 @@ function App() {
   useEffect(() => {
     async function loadPy() {
       const py = await window.loadPyodide({
-        indexURL: "/pyodide/"
+        indexURL: "./pyodide/"
       });
       const generatorPy = await (await fetch("/generator.py")).text();
       await py.runPythonAsync(generatorPy);
